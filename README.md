@@ -68,3 +68,5 @@ To keep this repository focused on learning documentation, the original course c
 
 The goal is to track progress and extract backend engineering insights
 while working through the course.
+
+For full environment specifications, see [SPECIFICATIONS.md](SPECIFICATIONS.md)
