@@ -9,29 +9,29 @@ Following the Axum full course and extracting lessons.
 
 ## Progress
 
-[x] Module 01 – Intro
+- [x] Module 01 – Intro
 
-[ ] Module 02 – Routing
+- [ ] Module 02 – Routing
 
-[ ] Module 03 – Extractors
+- [ ] Module 03 – Extractors
 
-[ ] Module 04 – Responses
+- [ ] Module 04 – Responses
 
-[ ] Module 05 – State
+- [ ] Module 05 – State
 
-[ ] Module 06 – Middleware
+- [ ] Module 06 – Middleware
 
-[ ] Module 07 – Errors
+- [ ] Module 07 – Errors
 
-[ ] Module 08 – Database
+- [ ] Module 08 – Database
 
-[ ] Module 09 – Auth
+- [ ] Module 09 – Auth
 
-[ ] Module 10 – Advanced
+- [ ] Module 10 – Advanced
 
-[ ] Module 11 – Testing
+- [ ] Module 11 – Testing
 
-[ ] Module 12 – Production
+- [ ] Module 12 – Production
 
 ---
 
